@@ -9,7 +9,7 @@ if [ $? = 0 ];
 then
   date
 else
- echo "can't install"
+ echo "can't install package"
 fi
 
  
